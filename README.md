@@ -147,6 +147,7 @@ npm install @countrystatecity/timezones
 
 **Legend:** ✅ = Available | NA = Not applicable for this format
 
+> 💡 **Download Individual Format Folders**: Don't want to clone the entire repository? Each format folder (psql, json, csv, etc.) contains a README with instructions for downloading just that folder. See [psql/README.md](psql/README.md) for an example.
 
 ## Demo
 
